@@ -1,0 +1,18 @@
+/* .gpt3__features-container__feature{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row;
+    margin: 1rem;
+} */
+.gpt3__features-container__feature-title .zz{
+    width: 40px;
+    height: 3px;
+    margin-bottom: .35rem;
+    background: var(--gradient-bar);
+
+}
+.gpt3__features-container__feature p {
+     color: #81AFDD;
+}
