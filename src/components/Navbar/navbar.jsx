@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import { RiCloseLine, RiMenu3Line } from "react-icons/ri";
 import logo from "../../assets/assets/logo.svg";
-import "./Navbar.css";
+import "./navbar.css";
 // Bem info to write classes
 const Navbar = () => {
   const [toggleMenu, setToggleMune] = useState(false);
