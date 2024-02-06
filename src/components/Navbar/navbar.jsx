@@ -12,16 +12,16 @@ const Navbar = () => {
         <a href="#home">Home</a>
       </p>
       <p>
-        <a href="#whatgptZ">Whta is GPT-Z</a>
+        <a href="#whatgpt-3">What is GPT-3</a>
       </p>
       <p>
-        <a href="#possibiliti">Open AI</a>
+        <a href="#FT">Open AI</a>
       </p>
       <p>
-        <a href="#CaseStudies">Case studies</a>
+        <a href="#possibility">Case studies</a>
       </p>
       <p>
-        <a href="#Library">Library</a>
+        <a href="#blog">blog</a>
       </p>
     </>
   );
